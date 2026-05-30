@@ -1,0 +1,15 @@
+# Cấu hình/local của công cụ phát triển — không cần đưa lên host
+.claude/
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Log/tạm
+*.log
+node_modules/
