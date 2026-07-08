@@ -1,5 +1,5 @@
 # Website Công ty TNHH Công nghệ - Dịch vụ số SAMOC
-*(SAMOC DIGITAL SERVICES - TECHNOLOGY COMPANY LIMITED — Giám đốc: Nguyễn Thành Trung)*
+*(SAMOC DIGITAL SERVICES - TECHNOLOGY COMPANY LIMITED — Giám đốc: Phạm Văn Thành)*
 
 Website giới thiệu công ty công nghệ đa ngành, tổ chức theo **6 khối ngành** (gộp từ 27 ngành nghề đăng ký):
 
@@ -17,7 +17,7 @@ Có kinh nghiệm tư vấn quốc tế tại **Nam Phi** và **Namibia** (xem t
 ```
 New folder/
 ├── index.html          # Trang chủ (hero, dịch vụ, thống kê, quy trình, đánh giá, CTA)
-├── about.html          # Giới thiệu (sứ mệnh, tầm nhìn, giá trị, GĐ Nguyễn Thành Trung)
+├── about.html          # Giới thiệu (sứ mệnh, tầm nhìn, giá trị, GĐ Phạm Văn Thành)
 ├── services.html       # 6 khối ngành chi tiết + bảng 27 mã ngành đăng ký + khóa đào tạo + FAQ
 ├── projects.html       # Dự án tiêu biểu (có bộ lọc theo lĩnh vực)
 ├── contact.html        # Liên hệ (form tư vấn + thông tin)
