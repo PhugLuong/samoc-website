@@ -373,7 +373,7 @@ p { color: var(--c-muted); }
 .value h4 { font-size: 1.16rem; margin-bottom: 9px; }
 .value p { font-size: .95rem; }
 
-.leader { display: grid; grid-template-columns: 240px 1fr; gap: 44px; align-items: center; background: var(--c-bg-soft); border: 1px solid var(--c-line); border-radius: var(--radius-lg); padding: 48px; }
+.leader { display: block; background: var(--c-bg-soft); border: 1px solid var(--c-line); border-radius: var(--radius-lg); padding: 48px; }
 .leader .avatar { width: 240px; height: 240px; border-radius: 24px; background: var(--grad-brand); display: grid; place-items: center; color: #fff; font-size: 4rem; font-weight: 800; font-family: var(--font-display); box-shadow: var(--shadow-brand); position: relative; overflow: hidden; }
 .leader .avatar::after { content:""; position:absolute; inset:0; background: radial-gradient(120% 80% at 30% 10%, rgba(255,255,255,.25), transparent 50%); }
 .leader h3 { font-size: 1.6rem; }
